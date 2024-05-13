@@ -1,0 +1,10 @@
+console.log("250 gr de harina");
+console.log("100 gr de manteca");
+console.log("150 gr de azucar");
+console.log("4 huevos");
+console.log("1 taza de leche");
+console.log("Poner la harina junto con el azucar y la leche");
+console.log("Agregar la manteca y los huevos");
+console.log("batir hasta lograr una pasta homogenea");
+console.log("colocar en un molde enharinado y enmantecado");
+console.log("cocinar en horno a 180º por 40 minutos");
