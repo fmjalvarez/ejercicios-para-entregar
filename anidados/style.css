@@ -1,0 +1,42 @@
+ul li a:hover {
+    
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+    
+ul li.color{
+    
+    color: rgb(142, 249, 128);
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.Link:visited{
+    color: #8bf579;
+    
+    
+}
+h1{    
+    color: rgb(205, 61, 61);
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+}
+.enfrenta {
+    color: rgb(39, 5, 10);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}   
+.parrafo {
+    color: rgb(5, 7, 5);
+    font-size: 18px;
+    font-kerning: inherit;
+}
+.cambio {
+    color: rgb(30, 153, 30);
+    font-size: 18px;
+    text-transform: capitalize;
+}
